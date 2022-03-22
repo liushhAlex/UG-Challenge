@@ -19,3 +19,6 @@ Please refer to the detection sub-folder
 
 5. Testing: Process images in dry run folder, that is, dehaze in phase one and detect vehicle in phase two.
 
+## Models and result
+
+https://drive.google.com/drive/folders/1O_tXc2Q6Kk5vt8dI4PA4vAoixgMxRHtl?usp=sharing
