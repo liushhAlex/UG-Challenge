@@ -1,9 +1,9 @@
 # UG-Challenge TRACK 1: OBJECT DETECTION IN HAZE
 
 ## Dehazing for 
-Please refer to sub-folder
+Please refer to the NTIRE-2021-Dehazing-Two-branch-cvpr sub-folder
 ## Detection for CVPR UG
-Please refer to detection sub-folder
+Please refer to the detection sub-folder
 
 1. Pre-trained Model: Weights trained on COCO 2017 dataset.
 
